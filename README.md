@@ -1,5 +1,7 @@
 I'm Tin and am currently working on a few NextJS & Laravel projects.
 
+I am migrating the projects I want to maintain + that are more than just "experiments" to my organization called [T2S](https://github.com/t2sever).
+
 # Projects
 - [Google Font CLI](https://github.com/t2sever/gfcli) – a CLI based Google Font installer.
 - [FOREX](https://github.com/tinsever/forex.mn-netz.de) – fictional currency management system that uses real-life base currencies.

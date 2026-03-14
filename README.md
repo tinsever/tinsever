@@ -1,7 +1,7 @@
 I'm Tin and am currently working on a few NextJS & Laravel projects.
 
 # Projects
-- [Google Font CLI](https://github.com/tinsever/google-font-cli) – a CLI based Google Font installer.
+- [Google Font CLI](https://github.com/t2sever/gfcli) – a CLI based Google Font installer.
 - [FOREX](https://github.com/tinsever/forex.mn-netz.de) – fictional currency management system that uses real-life base currencies.
 - [Weather Generator](https://github.com/tinsever/weather-simulator) – a weatehr generator for worldbuilding or anything fictional that generates wind currents, pressure, etc.
 - [Map Reprojector](https://github.com/tinsever/map-reprojector) – reproject SVG maps with ease

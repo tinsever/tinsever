@@ -13,6 +13,7 @@ In case you are **crazy** and want to support me. I got a [Ko-fi](https://ko-fi.
 - [Climate Map Generator](https://github.com/tinsever/climatemap-generator) – generates water temperature and climate zone maps for maps that don't have any height levels, just water + land.
 - [localthing](https://github.com/tinsever/localthing) – online tools, but local. Has a local AI assistant built in.
 - [RSSync](https://github.com/tinsever/rssync) – RSS aggregator with filters to generate own RSS feeds.
+- [frankfurter-js](https://github.com/t2sever/frankfurter-js) – Currency exchange JS SDK for frankfurter.app
 
 I also try to contribute to some open source projects... You can see that in my history.
 

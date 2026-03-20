@@ -7,7 +7,7 @@ In case you are **crazy** and want to support me. I got a [Ko-fi](https://ko-fi.
 # Projects
 - [Google Font CLI](https://github.com/t2sever/gfcli) – a CLI based Google Font installer.
 - [FOREX](https://github.com/tinsever/forex.mn-netz.de) – fictional currency management system that uses real-life base currencies.
-- [Weather Generator](https://github.com/tinsever/weather-simulator) – a weatehr generator for worldbuilding or anything fictional that generates wind currents, pressure, etc.
+- [Weather Generator](https://github.com/tinsever/weather-simulator) – a weather generator for worldbuilding or anything fictional that generates wind currents, pressure, etc.
 - [Map Reprojector](https://github.com/tinsever/map-reprojector) – reproject SVG maps with ease
 - [Quest](https://github.com/tinsever/quest) – Google-ish thingy I am making for world-building where people can register their currencies, could replace FOREX; or not.
 - [Climate Map Generator](https://github.com/tinsever/climatemap-generator) – generates water temperature and climate zone maps for maps that don't have any height levels, just water + land.

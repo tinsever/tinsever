@@ -5,6 +5,7 @@ I am migrating the projects I want to maintain + that are more than just "experi
 In case you are **crazy** and want to support me. I got a [Ko-fi](https://ko-fi.com/t2sever).
 
 # Projects
+- [Kaneo](https://github.com/usekaneo/kaneo) – an open-source project management app. Better than J*ra.
 - [Google Font CLI](https://github.com/t2sever/gfcli) – a CLI based Google Font installer.
 - [FOREX](https://github.com/tinsever/forex.mn-netz.de) – fictional currency management system that uses real-life base currencies.
 - [Weather Generator](https://github.com/tinsever/weather-simulator) – a weather generator for worldbuilding or anything fictional that generates wind currents, pressure, etc.
